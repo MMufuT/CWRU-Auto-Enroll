@@ -1,11 +1,17 @@
 # CWRU-Auto-Enroll
-Need to enroll in a class, but it's full? Easy, just keep checking it every day and wait until someone drops the class and a spot opens up! Except.. No one has time for that. Let this automation tool check for you and enroll as soon as a class opens up!
+Need to enroll in a class, but it's full? Easy, just keep checking it every day and wait until someone drops the class and a spot opens up! Except.. No one has time for that. Swiftly secure your spot in high-demand classes with this Java and Selenium WebDriver powered tool. Experience the magic as it seamlessly logs into your university's student information system and auto-enrolls you in fully enrolled classes in a mere 3 seconds!
 
-- Here's a fully automated tool developed using Java and Selenium WebDriver that I created
+✨ Key Features:
 
-- Watch how it instantly logs into the university student information system and auto enrolls you in a fully enrolled class within 3 seconds of a spot becoming available.
+- [x] Lightning-fast enrollment: Grab an open spot before anyone else with the tool's ultra-responsive automation.
+- [x] Real-time SMS notifications: Stay in the loop with instant updates using the powerful Twilio API, generating 20 distinct success/error messages for a seamless experience.
+- [x] Don't miss out on your dream classes ever again. Empower yourself with this automated tool and conquer your academic journey effortlessly!
+------------------------------------------------------------------------
+- 🔧 Technologies: Java, Selenium WebDriver
+- 📱 Integrations: Twilio API for real-time SMS notifications
+- 🕒 Enrollment Speed: Under 3 seconds per available spot
 
-- Experience real-time SMS notifications with 20 possible success/error messages generated using Twilio API.
+Get started now and take control of your academic destiny! 💪🏾
 
 [Click Here For Full Video Demonstration](https://youtu.be/buZZynMRPYk)
 
