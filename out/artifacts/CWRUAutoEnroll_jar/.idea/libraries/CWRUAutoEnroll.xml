@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CWRUAutoEnroll">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CWRUAutoEnroll.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
