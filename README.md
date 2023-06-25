@@ -3,8 +3,8 @@ Need to enroll in a class, but it's full? Easy, just keep checking it every day 
 
 ✨ Key Features:
 
-- [x] Lightning-fast enrollment: Grab an open spot before anyone else with the tool's ultra-responsive automation.
-- [x] Real-time SMS notifications: Stay in the loop with instant updates using the powerful Twilio API, generating 20 distinct success/error messages for a seamless experience.
+- [x] _**Lightning-fast enrollment**_: Grab an open spot before anyone else with the tool's ultra-responsive automation.
+- [x] _**Real-time SMS notifications**_: Stay in the loop with instant updates using the powerful Twilio API, generating 20 distinct success/error messages for a seamless experience.
 - [x] Don't miss out on your dream classes ever again. Empower yourself with this automated tool and conquer your academic journey effortlessly!
 ------------------------------------------------------------------------
 - 🔧 Technologies: Java, Selenium WebDriver
